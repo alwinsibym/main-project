@@ -69,3 +69,59 @@ This AI agent acts as an **intelligent personal assistant**, capable of real-tim
 ```bash
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
+
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run Django Server
+bash
+Copy
+Edit
+python manage.py runserver
+4️⃣ Set Up Environment Variables
+Create a .env file and add your API keys
+
+5️⃣ Build & Deploy
+Deploy backend via Render/Railway
+
+Deploy frontend on Vercel
+
+🛠️ Future Enhancements
+🏆 AI-powered Task Management
+
+🎭 Personality-based chat modes
+
+🖼️ AI-generated avatars for chats
+
+📲 Mobile App (React Native)
+
+❤️ Contributors
+👤 Your Name – LinkedIn
+👤 Other Contributors – (Add if applicable)
+
+📜 License
+MIT License © 2024
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ **Next Steps**
+- **[ ]** Copy this README and customize it (Add your repo name, images, API keys setup, etc.)  
+- **[ ]** Add this README to your GitHub repo (`README.md`)  
+- **[ ]** Set up Notion board and start tracking progress  
+
+---
+
+🚀 **Let’s go!** Need any help with API integration, backend setup, or deployment?
+
+
+
+
+
+
+
